@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/Hugo/Documents/NetBeansProjects/calculadora/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Hugo/Documents/NetBeansProjects/calculadora/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'calculadora 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'calculadora 1.0-SNAPSHOT API'
+com.mycompany.calculadora
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\src\main\java = 1711326674400
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\allclasses-index.html = 1711479358437
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\allpackages-index.html = 1711479358442
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\copy.svg = 1711479358494
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\element-list = 1711479358357
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\help-doc.html = 1711479358483
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\index-all.html = 1711479358468
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\index.html = 1711479358476
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\jquery-ui.overrides.css = 1711479358524
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\member-search-index.js = 1711479358451
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\module-search-index.js = 1711479358444
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\overview-tree.html = 1711479358419
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\package-search-index.js = 1711479358446
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\script.js = 1711479358491
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\search-page.js = 1711479358499
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\search.html = 1711479358472
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\search.js = 1711479358497
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\stylesheet.css = 1711479358487
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\tag-search-index.js = 1711479358452
+C:\Users\Hugo\Documents\NetBeansProjects\calculadora\target\site\apidocs\type-search-index.js = 1711479358448

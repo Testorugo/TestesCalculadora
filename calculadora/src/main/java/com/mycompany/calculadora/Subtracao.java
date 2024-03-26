@@ -7,9 +7,17 @@ package com.mycompany.calculadora;
 /**
  *
  * @author Hugo
+ * @version 1.3
+ * @since Release 1.3 da aplicação
  */
 public class Subtracao {
-
+   
+    /**
+     * 
+     * @param a, primeiro valor utilizado para subtração
+     * @param b, segundo valor utilizado para subtração
+     * @return , valor do retorno
+     */
     //Criando a função de subtrair
     public int subtrair(int a, int b) {
         return a - b;
